@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Gets data from restApi"""
 import requests
 from sys import argv
 
