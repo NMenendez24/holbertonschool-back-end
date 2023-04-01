@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Shebang"""
+import csv
 import requests
 from sys import argv
-import csv
 
 
 def get_info():
